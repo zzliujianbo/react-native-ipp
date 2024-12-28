@@ -1,20 +1,23 @@
 {
 	"name": "ipp",
 	"version": "2.0.0",
-	"description": "Internet Printing Protocol (IPP) for nodejs",
+	"description": "Internet Printing Protocol (IPP) for react native",
 	"keywords": [
 		"ipp",
 		"print",
 		"printing"
 	],
-	"homepage": "http://github.com/williamkapke/ipp",
+	"homepage": "https://github.com/zzliujianbo/react-native-ipp",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/williamkapke/ipp.git"
+		"url": "https://github.com/zzliujianbo/react-native-ipp.git"
 	},
 	"author": {
-		"name": "William Kapke",
-		"email": "william.kapke@gmail.com"
+		"name": "zzliujianbo",
+		"email": "zzliujianbo@gmail.com"
+	},
+	"dependencies": {
+		"url": "0.11.4"
 	},
 	"devDependencies": {
 		"concat-stream": "^1.6.0",
